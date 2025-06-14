@@ -146,7 +146,7 @@ A method is **idempotent** if making the same request **once or multiple times**
 | PUT      | ❌   | ✅         |
 | DELETE   | ❌   | ✅         |
 | POST     | ❌   | ❌         |
-| PATCH    | ❌   | ❌         |
+| PATCH    | ❌   | ⚠️         |
 | TRACE    | ❌   | ❌         |
 | CONNECT  | ❌   | ❌         |
 
